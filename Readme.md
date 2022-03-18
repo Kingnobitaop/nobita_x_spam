@@ -12,7 +12,7 @@
 [![Open Source Love svg2](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/sameerpanthi/deadly-spam-bot)   
 [![Contributors](https://img.shields.io/github/contributors/sameerpanthi/deadly-spam-bot?style=flat-square&color=green)](https://github.com/sameerpanthi/deadly-spam-bot/graphs/contributors)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://makeapullrequest.com)
-[![License](https://img.shields.io/badge/License-AGPL-blue)](https://github.com/sameerpanthi/deadly-spam-bot/blob/main/LICENSE)
+[![License](https://img.shields.io/badge/License-AGPL-blue)](https://github.com/kingnobitaop/king_x_spam/blob/main/LICENSE)
 
 ----
 
