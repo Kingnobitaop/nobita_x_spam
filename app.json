@@ -142,6 +142,11 @@
         "description": "Api Hash",
         "value": "",
         "required": true
+     },
+      "HANDLE": {
+        "description": "ENTER HANDLE ",
+        "value": "",
+        "required": true
       },
       "SUDO": {
         "description": "Sudo Users Id",
