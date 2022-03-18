@@ -1,4 +1,4 @@
-# SAVAGE SPAMMER
+# KING NOBITA SPAMMER
 
 <p align="center">
   <img src="https://telegra.ph/file/8c074c91d1546acab4904.jpg">
@@ -23,16 +23,16 @@
 
 ## 𝚂𝚄𝙿𝙿𝙾𝚁𝚃 
                           
-<a href="https://t.me/savage_spam_bots"><img src="https://img.shields.io/badge/Join-SUPPORT%20GROUP-red.svg?logo=Telegram"></a>
-<a href="https://t.me/savage_bot_updates"><img src="https://img.shields.io/badge/Join-SUPPORT%20CHANNEL-red.svg?logo=Telegram"></a>
+<a href="https://t.me/TSF_SP4MM3R"><img src="https://img.shields.io/badge/Join-SUPPORT%20GROUP-red.svg?logo=Telegram"></a>
+<a href="https://t.me/CHUDAI_BY_KING_NOBITA"><img src="https://img.shields.io/badge/Join-SUPPORT%20CHANNEL-red.svg?logo=Telegram"></a>
 
 -------------------------------------------------
 
-## 𝙲𝚁𝙴𝙰𝚃𝙾𝚁 -[𝚂𝙰𝙼𝙴𝙴𝚁](https://t.me/OFFICIAL_SAMEER)
+## 𝙲𝚁𝙴𝙰𝚃𝙾𝚁 -[PIYUSH](https://t.me/KING_NOBITA_OP)
 
 -------------------------------------------------
 
 ## 🚀 Deploy on Heroku 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/OFFICIAL-SAMEER/JAANAAXHKE.git)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/KINGNOBITAOP/JAANAAXHKE.git)
 ------------------------------------------------
 
